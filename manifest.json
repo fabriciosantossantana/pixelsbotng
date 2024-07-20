@@ -3,7 +3,10 @@
   "name": "Pixels Bot NG",
   "description": "Extension to play Pixels NFT",
   "version": "1.1",
-  "permissions": ["activeTab", "scripting"],
+  "permissions": [
+    "activeTab",
+    "scripting"
+  ],
   "action": {
     "default_popup": "index.html"
   }
