@@ -1,0 +1,44 @@
+  body {
+    background-color: #9434e2;
+    color: #333;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 5px;
+    width: 300px;
+    height: 300px;
+  }
+
+  .maindiv {
+    background-color: #9434e2;
+    color: white;
+    font-family: Helvetica, sans-serif;
+    padding: 5px;
+    display: flex; /* Utiliza Flexbox para layout */
+    justify-content: center; /* Centraliza os elementos horizontalmente */
+    align-items: center; /* Centraliza os elementos verticalmente */
+    text-align: center;
+    height: 50px; /* Defina uma altura para garantir que o alinhamento vertical seja visível */
+  }
+  
+  
+  #extension-icon {
+    width: 48px;
+    height: 48px;
+  }
+
+  button {
+    background-color: gray;
+    color: #ffffff;
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #000000;
+  }
+  
+  
